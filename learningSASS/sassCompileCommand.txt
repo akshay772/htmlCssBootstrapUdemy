@@ -1,0 +1,3 @@
+npx sass --watch main.scss output.css
+
+Official Website for SASS : sass-lang.com
